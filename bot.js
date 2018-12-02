@@ -92,7 +92,7 @@ client.on('ready', function(){
    
 client.on('message', message => {
 if(message.content == (prefix + "admin bot")) {
-         if(!message.author.id === '518896041228107778') return;
+         if(!message.author.id === '518911511117168686') return;
 var gimg;
 var gname;
 var gmemb;
